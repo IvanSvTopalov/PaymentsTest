@@ -1,5 +1,4 @@
-# PaymentsTest
-Payments Test Task
+# Payments Test Task
 
 This is a small smoke test suite for the payments api located at https://github.com/eMerchantPay/codemonsters_api_full
 
