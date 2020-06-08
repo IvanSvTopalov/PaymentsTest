@@ -14,11 +14,11 @@ The dependencies represent two java libraries necessary for the test (abbreviate
 commonsio.jar - org.apache.commons.io (https://mvnrepository.com/artifact/org.apache.commons.io/commonsIO)
 json.jar - org.json (https://mvnrepository.com/artifact/org.json/json/20190722)
 
-The app accepts the following command line arguments:
+The app accepts the following command line arguments: <br />
 -s    A successful transaction <br /> 
--v    A successful void of a transaction
--ia   An unsuccessful transaction with an invalid authentication
--vi   An unsuccessful void transaction with a non-existant purchase unique_id
--vv   An unsuccessful void transaction attempting pointing to a successful previous void transaction
+-v    A successful void of a transaction <br />
+-ia   An unsuccessful transaction with an invalid authentication <br />
+-vi   An unsuccessful void transaction with a non-existant purchase unique_id <br />
+-vv   An unsuccessful void transaction attempting pointing to a successful previous void transaction <br />
 
 Enjoy!
