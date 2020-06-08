@@ -8,7 +8,7 @@ In order to work with it the following prerequisites are required:
 1. It needs to be downloaded locally in a Linux environment 
 2. The ruby server needs to be initiated
 3. The testing application must be invoked using the command line in the following format:
-"RequestsTest/src/main/java/SanityCheck/RequestsTest$ java -cp "dependencies/commonsio.jar:dependencies/json.jar" App.java -s"
+"ProjectFolder$ java -cp "dependencies/commonsio.jar:dependencies/json.jar" App.java -s"
 
 The .jar dependencies must be included every time because this is a single file java application. 
 The dependencies represent two java libraries necessary for the test (abbreviated for convenience):
