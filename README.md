@@ -15,7 +15,7 @@ commonsio.jar - org.apache.commons.io (https://mvnrepository.com/artifact/org.ap
 json.jar - org.json (https://mvnrepository.com/artifact/org.json/json/20190722)
 
 The app accepts the following command line arguments:
--s    A successful transaction 
+-s    A successful transaction <br /> 
 -v    A successful void of a transaction
 -ia   An unsuccessful transaction with an invalid authentication
 -vi   An unsuccessful void transaction with a non-existant purchase unique_id
